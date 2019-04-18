@@ -42,5 +42,5 @@ def adding
 
 
   # return the shipping_manifest hash below
-  shipping_manifest["muskets"]
+  sr = shipping_manifest["oil paintings"]
 end
