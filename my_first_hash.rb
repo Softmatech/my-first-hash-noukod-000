@@ -43,5 +43,5 @@ def adding
 
 
   # return the shipping_manifest hash below
-  shipping_manifest["oil paintings"] == 3
+  shipping_manifest
 end
